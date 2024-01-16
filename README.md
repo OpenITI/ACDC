@@ -8,3 +8,5 @@ Our team member David Smith (Northeastern University), the main driver behind th
 [![](https://openiti.org/images/blogs/2024-01-05/Introducing-the-ACDC-Project--Part-I--TrJonathan%20Parkes%20Allen/media/image1.jpg)](https://openiti.org/images/blogs/2024-01-05/Introducing-the-ACDC-Project--Part-I--TrJonathan%20Parkes%20Allen/media/image1.jpg)
 
 Library of Congress PK6450 .G2 1593
+
+[Read more](https://openiti.org/2024/01/05/Introducing-the-ACDC-Project-Part-I-Tr.html)
