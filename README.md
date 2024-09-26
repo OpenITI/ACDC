@@ -5,6 +5,9 @@ One of OpenITI’s major deliverables in our most recent round of work is the [A
 
 Our team member David Smith (Northeastern University), the main driver behind the ACDC project, has just released a video introduction and tutorial to the project and the ensuing tool, [wherein he explains the logic of the project and gives a detailed walk-through of use, do have a watch](https://youtu.be/kNx4GyH5HSo?si=i1on3aT3lgUbEyT0)!
 
+The method was published in this paper: 
+David A. Smith, Jacob Murel, Jonathan Parkes Allen, Matthew Thomas Miller: "Automatic Collation for Diversifying Corpora: Commonly Copied Texts as Distant Supervision for Handwritten Text Recognition", CHR 2023: Computational Humanities Research Conference, December 6 – 8, 2023, Paris, France. [PDF](https://ceur-ws.org/Vol-3558/paper1708.pdf)
+
 [![](https://openiti.org/images/blogs/2024-01-05/Introducing-the-ACDC-Project--Part-I--TrJonathan%20Parkes%20Allen/media/image1.jpg)](https://openiti.org/images/blogs/2024-01-05/Introducing-the-ACDC-Project--Part-I--TrJonathan%20Parkes%20Allen/media/image1.jpg)
 
 Library of Congress PK6450 .G2 1593
